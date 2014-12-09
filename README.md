@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hello everybody.
+
+This is my first readme on github.
